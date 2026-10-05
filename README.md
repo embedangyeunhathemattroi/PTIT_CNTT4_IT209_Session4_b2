@@ -2,7 +2,7 @@
 
 ## Gioi thieu
 
-Dong noi dung chung: Du an dang o trang thai ban dau.
+Dong noi dung chung: Nhanh main cap nhat noi dung README truoc khi merge.
 
 ## Bao cao
 
