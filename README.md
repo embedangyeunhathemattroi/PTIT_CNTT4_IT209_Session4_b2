@@ -2,7 +2,7 @@
 
 ## Gioi thieu
 
-Dong noi dung chung: Du an dang o trang thai ban dau.
+Dong noi dung chung: Tinh nang moi duoc phat trien tren nhanh feature-update.
 
 ## Bao cao
 
