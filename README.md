@@ -32,4 +32,13 @@ Dong noi dung chung: Nhanh main da cap nhat README va tinh nang moi tu nhanh fea
 git log --graph --oneline
 ```
 
-Ket qua se duoc cap nhat sau khi tao merge commit.
+Ket qua:
+
+```text
+*   ab75df2 Merge feature-update and resolve README conflict
+|\  
+| * f987061 Update README on feature branch
+* | 8e745fa Update README on main branch
+|/  
+* 19bbecb Initial README for branch exercise
+```
